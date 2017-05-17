@@ -1,9 +1,8 @@
 # Site settings
 title: Graphic Biotech
 email: #
-description: >
-  Innovation - Design - Biology - Policy
-baseurl:  # the subpath of your site, e.g. /blog/
+description: Innovation - Design - Biology - Policy
+baseurl:  "/-folio-master/" # the subpath of your site, e.g. /blog/
 url:  kenza.science
 twitter_username: @kenzasam
 github_username: #
