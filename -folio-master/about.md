@@ -11,9 +11,8 @@ About Graphic Biotech
 
 Innovation, design, biotech and policy. When I met more people
 
-Biotechnology is no longer a mysterious blabla. It is all around us, but also, it isn't questioned it enough. Governments and legislation is lagging behind. Is policy too slow to catch up? And how can we still keep on encouraging crazy multidisciplinary and disruptive biotech innovation  without pinning research down? Can Community Labs play a role in this?
-Next to
-Who are the people challenging this status quo?
+Biotechnology is no longer a mysterious blabla. It is all around us, but also, it's potential isn't understood enough by society. Governments and legislation are lagging behind. Is policy too slow to catch up? And how can we still keep on encouraging crazy multidisciplinary and disruptive biotech innovation without having limiting frameworks? What role do artists and DIY biologists play in this?
+And who are the innovators and entrepreneurs challenging the status quo?
 
 About Me
 Science communicator, entrepreneur, bioengineer and critic.
@@ -27,7 +26,6 @@ Currently Montréal based biohacker at <a href="http://brico.bio" target="Bricbi
 <hr/>
 <br/>
 <span class="contacticon center">
-	#<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://twitter.com/kenzasam" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
