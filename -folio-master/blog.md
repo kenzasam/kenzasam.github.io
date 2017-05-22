@@ -1,5 +1,5 @@
 ---
-layout: Blog
+layout: post
 permalink: /blog/
 title: blog
 description: Short stories, reflections and interviews.
