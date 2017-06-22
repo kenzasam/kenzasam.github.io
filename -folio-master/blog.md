@@ -1,10 +1,11 @@
 ---
 layout: post
 permalink: /blog/
-title: blog
+title: Blog
 description: Short stories, reflections and interviews.
 ---
 
+Coming soon
 #<ul class="post-list">
 #{% for poem in site.poetry reversed %}
     <li>
